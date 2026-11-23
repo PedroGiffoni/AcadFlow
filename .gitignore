@@ -1,0 +1,22 @@
+# Dados locais
+/dados/alunos.json
+
+# Arquivos de ambiente
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db

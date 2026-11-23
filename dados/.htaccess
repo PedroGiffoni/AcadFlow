@@ -1,0 +1,10 @@
+# ==========================================
+# ACADFLOW - PROTEÇÃO DOS DADOS
+# ==========================================
+
+# Impedir listagem de arquivos
+Options -Indexes
+
+# Bloquear acesso HTTP aos arquivos
+# Requer Apache 2.4 ou superior
+Require all denied
